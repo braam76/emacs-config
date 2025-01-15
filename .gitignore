@@ -1,0 +1,4 @@
+themes/*
+elpaca/*
+auto-save-list/*
+!elpaca-setup.el
